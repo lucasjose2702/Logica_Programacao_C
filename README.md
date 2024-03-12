@@ -1,8 +1,7 @@
-# Logica_Programacao_C
-<h4>Este é um conjunto de exercícios em linguagem C. Abordando conceitos de lógica, condicionais, repetições indefinidas, repetição determinada, vetores, matrizes e strings.<h4>
+# Logica_Programacao_CEste é um conjunto de exercícios em linguagem C. Abordando conceitos de lógica, condicionais, repetições indefinidas, repetição determinada, vetores, matrizes e strings.
 
 #Conteúdo
-<h4>O trabalho inclui os seguintes exercícios:<h4>
+O trabalho inclui os seguintes exercícios:
 
 Troca de variáveis.<br>
 Sucessor e antecessor de um número.<br>
@@ -36,5 +35,6 @@ Verificação da presença do cargo "diretor" em uma matriz de cargos.<br>
 Identificação do estado com menor número de habitantes em uma matriz de estados e um vetor de habitantes.<br>
 Exibição do nome e país de pessoas em um formato específico.<br>
 Identificação de salários maiores que 1000 em uma matriz de salários.<br>
+
 Cada exercício aborda conceitos específicos da linguagem C e pratica diferentes técnicas de programação.
 
