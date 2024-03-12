@@ -37,5 +37,5 @@ O trabalho inclui os seguintes exercícios:
 40-Exibição do nome e país de pessoas em um formato específico.<br>
 41-Identificação de salários maiores que 1000 em uma matriz de salários.<br>
 
-# Cada exercício aborda conceitos específicos da linguagem C e pratica diferentes técnicas de programação.
+<h2>Cada exercício aborda conceitos específicos da linguagem C e pratica diferentes técnicas de programação.<h2>
 
