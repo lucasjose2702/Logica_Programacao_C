@@ -1,6 +1,8 @@
 # Logica_Programacao_C
 Este é um conjunto de exercícios em linguagem C. Abordando conceitos de lógica, condicionais, repetições indefinidas, repetição determinada, vetores, matrizes e strings.
 
+Obs: Ctrl + / (Para retirar cometário do código)
+
 # Conteúdo
 O trabalho inclui os seguintes exercícios:
 
